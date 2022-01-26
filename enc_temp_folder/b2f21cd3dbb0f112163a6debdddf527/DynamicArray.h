@@ -138,6 +138,7 @@ template<typename T>
 inline int DynamicArray<T>::getLength()
 {
 	return m_length;
+
 }
 
 
